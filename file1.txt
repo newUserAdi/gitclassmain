@@ -1,4 +1,9 @@
 "Hello there my friends" 
 Edited on GitHub
+
 Editing file to make local ahead of remote by few changes
 Making some more changes in local, NEED MORE CHANGES
+
+Doing some more changes to make the remote ahead of local by few commits
+And some more changes, more the merrier
+
